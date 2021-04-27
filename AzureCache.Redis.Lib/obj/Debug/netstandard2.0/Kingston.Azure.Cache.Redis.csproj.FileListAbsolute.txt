@@ -1,9 +1,0 @@
-D:\Company\Kingston\Sources\Agents of S.H.I.E.L.D\Heimdall.API.Portal\IND4.Portal.API\Kingston.Azure.Cache.Redis\bin\Debug\netstandard2.0\Kingston.Azure.Cache.Redis.deps.json
-D:\Company\Kingston\Sources\Agents of S.H.I.E.L.D\Heimdall.API.Portal\IND4.Portal.API\Kingston.Azure.Cache.Redis\bin\Debug\netstandard2.0\Kingston.Azure.Cache.Redis.dll
-D:\Company\Kingston\Sources\Agents of S.H.I.E.L.D\Heimdall.API.Portal\IND4.Portal.API\Kingston.Azure.Cache.Redis\bin\Debug\netstandard2.0\Kingston.Azure.Cache.Redis.pdb
-D:\Company\Kingston\Sources\Agents of S.H.I.E.L.D\Heimdall.API.Portal\IND4.Portal.API\Kingston.Azure.Cache.Redis\obj\Debug\netstandard2.0\Kingston.Azure.Cache.Redis.AssemblyInfoInputs.cache
-D:\Company\Kingston\Sources\Agents of S.H.I.E.L.D\Heimdall.API.Portal\IND4.Portal.API\Kingston.Azure.Cache.Redis\obj\Debug\netstandard2.0\Kingston.Azure.Cache.Redis.AssemblyInfo.cs
-D:\Company\Kingston\Sources\Agents of S.H.I.E.L.D\Heimdall.API.Portal\IND4.Portal.API\Kingston.Azure.Cache.Redis\obj\Debug\netstandard2.0\Kingston.Azure.Cache.Redis.csproj.CoreCompileInputs.cache
-D:\Company\Kingston\Sources\Agents of S.H.I.E.L.D\Heimdall.API.Portal\IND4.Portal.API\Kingston.Azure.Cache.Redis\obj\Debug\netstandard2.0\Kingston.Azure.Cache.Redis.dll
-D:\Company\Kingston\Sources\Agents of S.H.I.E.L.D\Heimdall.API.Portal\IND4.Portal.API\Kingston.Azure.Cache.Redis\obj\Debug\netstandard2.0\Kingston.Azure.Cache.Redis.pdb
-D:\Company\Kingston\Sources\Agents of S.H.I.E.L.D\Heimdall.API.Portal\IND4.Portal.API\Kingston.Azure.Cache.Redis\obj\Debug\netstandard2.0\Kingston.Azure.Cache.Redis.csprojAssemblyReference.cache

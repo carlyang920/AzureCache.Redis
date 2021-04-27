@@ -1,8 +1,0 @@
-C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis\bin\Debug\netstandard2.0\AzureCache.Redis.deps.json
-C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis\bin\Debug\netstandard2.0\AzureCache.Redis.dll
-C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis\bin\Debug\netstandard2.0\AzureCache.Redis.pdb
-C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis\obj\Debug\netstandard2.0\AzureCache.Redis.AssemblyInfoInputs.cache
-C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis\obj\Debug\netstandard2.0\AzureCache.Redis.AssemblyInfo.cs
-C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis\obj\Debug\netstandard2.0\AzureCache.Redis.csproj.CoreCompileInputs.cache
-C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis\obj\Debug\netstandard2.0\AzureCache.Redis.dll
-C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis\obj\Debug\netstandard2.0\AzureCache.Redis.pdb
