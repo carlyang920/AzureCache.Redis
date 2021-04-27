@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using AzureCache.Redis.Lib.Helpers;
 using AzureCache.Redis.Lib.Interfaces;
 using AzureCache.Redis.Lib.Services;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -9,7 +10,7 @@ using StackExchange.Redis;
 namespace AzureCache.Redis.Tests.Services
 {
     [TestClass]
-    public class RedisServiceTest : BaseServiceTest
+    public class RedisServiceTest
     {
         private readonly IRedisService _redisService;
 
@@ -21,7 +22,7 @@ namespace AzureCache.Redis.Tests.Services
         [TestMethod]
         public void TestKeyExists()
         {
-            var key = Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
+            var key = HashHelper.Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
 
             try
             {
@@ -54,7 +55,7 @@ namespace AzureCache.Redis.Tests.Services
         [TestMethod]
         public void TestKeyDelete()
         {
-            var key = Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
+            var key = HashHelper.Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
 
             try
             {
@@ -89,9 +90,9 @@ namespace AzureCache.Redis.Tests.Services
         [TestMethod]
         public void TestStringSet()
         {
-            var key1 = Sha256Encrypt($"{Guid.NewGuid()}_Test");
-            var key2 = Sha256Encrypt($"{Guid.NewGuid()}_Test");
-            var key3 = Sha256Encrypt($"{Guid.NewGuid()}_Test");
+            var key1 = HashHelper.Sha256Encrypt($"{Guid.NewGuid()}_Test");
+            var key2 = HashHelper.Sha256Encrypt($"{Guid.NewGuid()}_Test");
+            var key3 = HashHelper.Sha256Encrypt($"{Guid.NewGuid()}_Test");
 
             try
             {
@@ -130,7 +131,7 @@ namespace AzureCache.Redis.Tests.Services
         [TestMethod]
         public void TestStringGet()
         {
-            var key1 = Sha256Encrypt($"{Guid.NewGuid()}_Test");
+            var key1 = HashHelper.Sha256Encrypt($"{Guid.NewGuid()}_Test");
 
             try
             {
@@ -164,7 +165,7 @@ namespace AzureCache.Redis.Tests.Services
         [TestMethod]
         public void TestHashSet()
         {
-            var key1 = Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
+            var key1 = HashHelper.Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
 
             try
             {
@@ -201,7 +202,7 @@ namespace AzureCache.Redis.Tests.Services
         [TestMethod]
         public void TestHashGet()
         {
-            var key1 = Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
+            var key1 = HashHelper.Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
 
             try
             {

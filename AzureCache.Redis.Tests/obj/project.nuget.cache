@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qw1bmG/gnccjpOqLC204S3KMfTP8KbTFVTrxGkaHMGQNrJ9cgj06APVXCy4h3fumskM5qFyMgUbQpAUBqnShQg==",
+  "dgSpecHash": "lqWLj4SAREVzPCpV5x9ijSDYNHfb5L9drfWi39l5vo/DjQqK9KhPHYhv2tmJO/KCwFQZqCoKhfzQxbPzPPQkBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlyang\\source\\repos\\AzureCache.Redis\\AzureCache.Redis.Tests\\AzureCache.Redis.Tests.csproj",
+  "projectFilePath": "D:\\GitHub\\AzureCache.Redis\\AzureCache.Redis.Tests\\AzureCache.Redis.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlyang\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\carlyang\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

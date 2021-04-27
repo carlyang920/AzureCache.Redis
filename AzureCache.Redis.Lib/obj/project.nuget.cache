@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yfm3SUM14N6biWFm3cPPKJq71pbKRKjgI+PF6ahkQuqkR3wamUWCKE5kGMadq5wfc9nuyBWPBqBiaMEVGiJ9PQ==",
+  "dgSpecHash": "4/m0w2u3/tl9wCWsuDKO1+IfFLpd3xxNKwNwbzfYhVeiq8uj5UzY7Q4IX2Hytf931a1Sn9VHSrOLqaYxwfj6cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlyang\\source\\repos\\AzureCache.Redis\\AzureCache.Redis.Lib\\AzureCache.Redis.Lib.csproj",
+  "projectFilePath": "D:\\GitHub\\AzureCache.Redis\\AzureCache.Redis.Lib\\AzureCache.Redis.Lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlyang\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\carlyang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

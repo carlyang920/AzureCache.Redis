@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using AzureCache.Redis.Lib.Helpers;
 using AzureCache.Redis.Lib.Interfaces;
 using AzureCache.Redis.Lib.Services;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -9,7 +10,7 @@ using Newtonsoft.Json;
 namespace AzureCache.Redis.Tests.Services
 {
     [TestClass]
-    public class CacheServiceTest : BaseServiceTest
+    public class CacheServiceTest
     {
         private readonly ICacheService _cacheService;
 
@@ -23,7 +24,7 @@ namespace AzureCache.Redis.Tests.Services
         [TestMethod]
         public void TestExists()
         {
-            var key = Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
+            var key = HashHelper.Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
 
             try
             {
@@ -56,7 +57,7 @@ namespace AzureCache.Redis.Tests.Services
         [TestMethod]
         public void TestSetValue()
         {
-            var key = Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
+            var key = HashHelper.Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
 
             try
             {
@@ -94,7 +95,7 @@ namespace AzureCache.Redis.Tests.Services
         [TestMethod]
         public void TestGetValue()
         {
-            var key = Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
+            var key = HashHelper.Sha256Encrypt($"{DateTime.Now:yyyy-MM-ddHHmmssfff}_Test");
 
             try
             {

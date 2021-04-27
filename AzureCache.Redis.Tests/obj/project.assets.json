@@ -6110,11 +6110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlyang\\source\\repos\\AzureCache.Redis\\AzureCache.Redis.Tests\\AzureCache.Redis.Tests.csproj",
+      "projectUniqueName": "D:\\GitHub\\AzureCache.Redis\\AzureCache.Redis.Tests\\AzureCache.Redis.Tests.csproj",
       "projectName": "AzureCache.Redis.Tests",
-      "projectPath": "C:\\Users\\carlyang\\source\\repos\\AzureCache.Redis\\AzureCache.Redis.Tests\\AzureCache.Redis.Tests.csproj",
+      "projectPath": "D:\\GitHub\\AzureCache.Redis\\AzureCache.Redis.Tests\\AzureCache.Redis.Tests.csproj",
       "packagesPath": "C:\\Users\\carlyang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlyang\\source\\repos\\AzureCache.Redis\\AzureCache.Redis.Tests\\obj\\",
+      "outputPath": "D:\\GitHub\\AzureCache.Redis\\AzureCache.Redis.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6139,8 +6139,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\carlyang\\source\\repos\\AzureCache.Redis\\AzureCache.Redis.Lib\\AzureCache.Redis.Lib.csproj": {
-              "projectPath": "C:\\Users\\carlyang\\source\\repos\\AzureCache.Redis\\AzureCache.Redis.Lib\\AzureCache.Redis.Lib.csproj"
+            "D:\\GitHub\\AzureCache.Redis\\AzureCache.Redis.Lib\\AzureCache.Redis.Lib.csproj": {
+              "projectPath": "D:\\GitHub\\AzureCache.Redis\\AzureCache.Redis.Lib\\AzureCache.Redis.Lib.csproj"
             }
           }
         }

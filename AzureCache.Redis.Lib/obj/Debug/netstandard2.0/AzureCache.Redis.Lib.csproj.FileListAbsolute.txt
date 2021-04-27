@@ -6,3 +6,11 @@ C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis.Lib\obj\Debug\n
 C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis.Lib\obj\Debug\netstandard2.0\AzureCache.Redis.Lib.csproj.CoreCompileInputs.cache
 C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis.Lib\obj\Debug\netstandard2.0\AzureCache.Redis.Lib.dll
 C:\Users\carlyang\source\repos\AzureCache.Redis\AzureCache.Redis.Lib\obj\Debug\netstandard2.0\AzureCache.Redis.Lib.pdb
+D:\GitHub\AzureCache.Redis\AzureCache.Redis.Lib\bin\Debug\netstandard2.0\AzureCache.Redis.Lib.deps.json
+D:\GitHub\AzureCache.Redis\AzureCache.Redis.Lib\bin\Debug\netstandard2.0\AzureCache.Redis.Lib.dll
+D:\GitHub\AzureCache.Redis\AzureCache.Redis.Lib\bin\Debug\netstandard2.0\AzureCache.Redis.Lib.pdb
+D:\GitHub\AzureCache.Redis\AzureCache.Redis.Lib\obj\Debug\netstandard2.0\AzureCache.Redis.Lib.AssemblyInfoInputs.cache
+D:\GitHub\AzureCache.Redis\AzureCache.Redis.Lib\obj\Debug\netstandard2.0\AzureCache.Redis.Lib.AssemblyInfo.cs
+D:\GitHub\AzureCache.Redis\AzureCache.Redis.Lib\obj\Debug\netstandard2.0\AzureCache.Redis.Lib.csproj.CoreCompileInputs.cache
+D:\GitHub\AzureCache.Redis\AzureCache.Redis.Lib\obj\Debug\netstandard2.0\AzureCache.Redis.Lib.dll
+D:\GitHub\AzureCache.Redis\AzureCache.Redis.Lib\obj\Debug\netstandard2.0\AzureCache.Redis.Lib.pdb
